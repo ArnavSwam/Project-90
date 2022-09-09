@@ -1,0 +1,44 @@
+#output
+{
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid #aa4465;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+
+body
+{
+    background-color: rgb(206, 24, 24);
+}
+
+h3
+{
+    font-size: 40px;
+}
+h4
+{
+    color: black;
+    font-size: 35px;
+    text-align: center;
+
+}
+
+button
+{
+    width: 35%;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+input:hover
+{
+    background-color: rgba(124, 124, 102, 0.664);
+    border: 1px solid black;
+}
+
+button:hover
+{
+    border: 2px ridge black;
+}
